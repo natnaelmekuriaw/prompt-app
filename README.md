@@ -1,5 +1,19 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## 🚀 Technologies & Tools
+
+
+- Languages:
+
+  -  JavaScript
+  -  React
+  -  NextJS
+  -  HTML & CSS
+  -  Tailwind
+  -  NextJs API
+  -  MongoDb and MongoDb Atlas, Mongoose, 
+
 ## Getting Started
 
 First, run the development server:
